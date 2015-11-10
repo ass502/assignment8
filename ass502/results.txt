@@ -1,0 +1,12 @@
+For the position of 1 share(s), the mean daily return was 0.0268
+For the position of 1 share(s), the standard deviation of the daily return was 0.999640815493
+
+For the position of 10 share(s), the mean daily return was 0.01194
+For the position of 10 share(s), the standard deviation of the daily return was 0.316109848629
+
+For the position of 100 share(s), the mean daily return was 0.02083
+For the position of 100 share(s), the standard deviation of the daily return was 0.100008755117
+
+For the position of 1000 share(s), the mean daily return was 0.0196056
+For the position of 1000 share(s), the standard deviation of the daily return was 0.0315946395555
+
